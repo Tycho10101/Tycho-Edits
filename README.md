@@ -1,4 +1,4 @@
-# Tycho-Edits-OAndR
+# Tycho Edits
 A mod of Everybody Edits Offline and Rewritten, using ffdec
 
 ## Diffrences
